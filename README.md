@@ -1,3 +1,3 @@
 Duke has arrived
 
-Second change for Joe.
+Second change for Joe
